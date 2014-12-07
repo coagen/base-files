@@ -1,8 +1,8 @@
-PRETTY_NAME="Debian #OSNAME# 8 (jessie)"
+PRETTY_NAME="Devuan #OSNAME# 1 (jessie)"
 NAME="Debian #OSNAME#"
-VERSION_ID="8"
-VERSION="8 (jessie)"
-ID=debian
-HOME_URL="http://www.debian.org/"
-SUPPORT_URL="http://www.debian.org/support/"
-BUG_REPORT_URL="https://bugs.debian.org/"
+VERSION_ID="1"
+VERSION="1 (jessie)"
+ID=devuan
+HOME_URL="http://www.devuan.org/"
+SUPPORT_URL="http://www.devuan.org/support/"
+BUG_REPORT_URL="https://bugs.devuan.org/"

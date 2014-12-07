@@ -1,5 +1,7 @@
 /etc/debian_version
+/etc/devuan_version
 /etc/dpkg/origins/debian
+/etc/dpkg/origins/devuan
 /etc/host.conf
 /etc/issue
 /etc/issue.net
